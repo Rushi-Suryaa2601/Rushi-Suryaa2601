@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushi-Suryaa2601
 
-Hello, I'm  Rushikesh Suryagandh – a passionate developer enthusiastic about Python and the Django framework. I have a strong foundation in web development, with knowledge in HTML, CSS, and JavaScript. My journey involves exploring, learning, and contributing to open source projects.
+Hello, I'm  Rushikesh Suryagandh – a passionate developer enthusiastic about Python and the Django framework. I have a strong foundation in web development, with knowledge in HTML, CSS, JavaScript,TailwindCss and React. My journey involves exploring, learning, and contributing to open source projects.
 
 
 ## About Me
