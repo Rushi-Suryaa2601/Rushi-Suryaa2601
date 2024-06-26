@@ -7,12 +7,12 @@ Hello, I'm  Rushikesh Suryagandh – a passionate developer enthusiastic about P
 
 ## About Me
 
-<h4>A Full-Stack developer | PYTHON Developer</h4>
+<h4>A Full-Stack developer || PYTHON Developer || MERN Stack Developer </h4>
 
 - 📫 How to reach me: suryagandhrushi4455@gmail.com
 -  💼 LinkedIn: [www.linkedin.com/in/rushikesh-suryagandh]
 - 🌍 I'm based in  Sangli.
-- 💻 Currently  i am  MCA first year Student in Government College Of Engineering,Karad.
+- 💻 Currently  i am  MCA Second Year Student in Government College Of Engineering,Karad.
 - 🎓 I have a degree in B.Sc[Computer Science]
 
 ## My Interests
